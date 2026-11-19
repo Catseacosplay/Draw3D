@@ -138,4 +138,10 @@ Tap **Front** under World View in the Tools panel.
 - Name your planes as you go, so the list stays easy to use.
 - Keep Orbit locked while drawing.
 
+## Get Draw!3D and join the community
+
+- **Download Draw!3D:** [Get it on Google Play](https://play.google.com/store/apps/details?id=com.catseagames.draw3d)
+- **Video tutorials:** [Draw!3D on YouTube](https://www.youtube.com/@Draw3D-Crane)
+- **Community:** share your drawings and ask questions on [r/Draw3dCommunity](https://www.reddit.com/r/Draw3dCommunity/)
+
 [Back to all tutorials]({{ '/' | relative_url }})
