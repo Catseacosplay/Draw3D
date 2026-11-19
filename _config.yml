@@ -1,0 +1,6 @@
+title: Draw!3D Help & Tutorials
+description: Tutorials for Draw!3D, the 3D drawing app for Android tablets. Learn planes, curved planes, 3D shapes, stamps, fill and the world camera.
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
